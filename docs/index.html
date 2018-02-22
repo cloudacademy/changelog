@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <title>Cloud Academy Change Log</title>
+
+    <link rel="canonical" href="https://changes.cloudacademy.com/" />
+    <link rel="alternate" hreflang="en" href="https://changes.cloudacademy.com/" />
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.png" />
+
+    <style>
+    </style>
+
+    <!--[if lt IE 9]>
+  <script>
+    //Enable HTML5 elements for <IE9
+    'abbr article aside audio bdi canvas data datalist details dialog \
+    figcaption figure footer header hgroup main mark meter nav output \
+    progress section summary template time video'.replace(/\w+/g,function(n){document.createElement(n)});
+  </script>
+<![endif]-->
+
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+    <script src="/assets/markdown.min.js"></script>
+</head>
+
+<body class="">
+    <header class="header">
+        <div class="container header-inner">
+            <div class="logo">
+                <a href="https://cloudacademy.com/">
+                    <img src="/assets/logo.png" alt="Logo">
+                </a>
+            </div>
+
+            <div class="nav-item">
+                <a href="https://cloudacademy.com/dashboard">Dashboard</a>
+            </div>
+
+
+        </div>
+        </div>
+    </header>
+
+    <main role="main">
+        <section class="section hero">
+            <div class="container hero-inner">
+                <h1 class="hero-title">Change Log</h1>
+            </div>
+        </section>
+
+        <div class="container">
+            <div class="section-container">
+                <section class="section-content category-icon-selector">
+
+                    <ul id="section-articles-list">
+
+                    </ul>
+
+                </section>
+            </div>
+        </div>
+
+    </main>
+
+    <script>
+
+        function readTextFile(file, callback) {
+            var rawFile = new XMLHttpRequest();
+            rawFile.open("GET", file, false);
+            rawFile.onreadystatechange = function () {
+                if (rawFile.readyState === 4) {
+                    if (rawFile.status === 200 || rawFile.status == 0) {
+                        return callback(rawFile.responseText);
+                    }
+                    callback('');
+                }
+            }
+            rawFile.send(null);
+        }
+
+        window.onload = function () {
+            readTextFile('/changes.md', function (md) {
+                var mdHtml = markdown.toHTML(md);
+                document.getElementById("section-articles-list").innerHTML = mdHtml;
+            });
+        };
+
+    </script>
+</body>
+
+</html>
