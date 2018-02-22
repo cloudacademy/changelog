@@ -32,7 +32,7 @@ Here the link to the improvements documentation
 
 Course UI changes
 
-![course](/images/course.png "Courses")
+![course](https://raw.githubusercontent.com/cloudacademy/changelog/master/docs/images/course.png "Courses")
 
 
 [comment]: # (The changes for v6.1)
