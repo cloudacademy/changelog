@@ -786,7 +786,7 @@ nav.sub-nav {
 /*Hero*/
 section.hero {
     /* background-color: #112244; */
-    background: url(/assets/header.jpg) top center;
+    background: url(assets/header.jpg) top center;
     background-size: cover;
     height: 250px;
     margin: 0;
