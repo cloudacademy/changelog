@@ -13,9 +13,9 @@
 **Improved Courses User Interface**
 
 Our video course user interface got a face lift. There are also several improvements under the hood:
-- More granular sync of progress across devices; the user’s position is stored at more frequent intervals so users can continue more easily from another device
-- Video preferences can now be saved (subtitles, speed)
-- Users can now give feedback to Cloud Academy at the lecture level and report any problems with a specific video
+* More granular sync of progress across devices; the user’s position is stored at more frequent intervals so users can continue more easily from another device
+* Video preferences can now be saved (subtitles, speed)
+* Users can now give feedback to Cloud Academy at the lecture level and report any problems with a specific video
 
 ![course](https://raw.githubusercontent.com/cloudacademy/changelog/master/docs/images/2018-02-19-coursesUI.png "Courses")
 
