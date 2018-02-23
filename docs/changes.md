@@ -8,7 +8,7 @@
 [comment]: # (The changes for v6.2)
 ## Release Notes: v6.2 (Feb 19, 2018)
 
-**New Features:**
+### New Features:
 
 **Improved Courses User Interface**
 
@@ -16,25 +16,29 @@ Our video course user interface got a face lift. There are also several improvem
 - More granular sync of progress across devices; the user’s position is stored at more frequent intervals so users can continue more easily from another device
 - Video preferences can now be saved (subtitles, speed)
 - Users can now give feedback to Cloud Academy at the lecture level and report any problems with a specific video
-
-
-
-**Bug-Fixes:**
-
-- Learning products ...
-- Content Engine ...
-- Other technical fixes ...
-
-
-**Technical & Architectural Improvements:**
-
-- Learning products ...
-- Content Engine ...
-- Other technical fixes ...
-
-Course UI changes
-
 ![course](https://raw.githubusercontent.com/cloudacademy/changelog/master/docs/images/course.png "Courses")
+
+**New Navigation Sidebar Within Learning Path**
+
+We added an expandable navigation bar to all pages within a Learning Path. From within any Course, Hands-on Lab, or Quiz in a Learning Path, users can click the purple ribbon on the left side of the screen and easily navigate without leaving the screen they’re on.
+
+**Simplified Action Menu on Management Dashboard**
+
+We replaced the small, difficult to click Action buttons on the Management Dashboard with a larger, more easily clickable menu dropdown for Actions.
+
+
+### Bug-Fixes & Architectural Improvements
+
+- Learning products ...
+- Content Engine ...
+- Other technical fixes ...
+
+
+### Technical & Architectural Improvements:
+
+- Learning products ...
+- Content Engine ...
+- Other technical fixes ...
 
 
 [comment]: # (The changes for v6.1)
