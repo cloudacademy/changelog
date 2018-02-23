@@ -2,7 +2,7 @@
 ## Notable & Upcoming
 
 - The Learning Path Editor in Content Engine is receiving an updated UI, making it easier to integrate your custom training materials as quiz and exam content.
-- Training Plan beta continues to expand. Training Plans enable you to assign multiple Learning Paths to specific teams with a Training Plan cycle due date, monitor progress, and keep teams on track to reach training goals. You can request to join the beta program by emailing [trainingplans@cloudacademy.com].
+- Training Plan beta continues to expand. Training Plans enable you to assign multiple Learning Paths to specific teams with a Training Plan cycle due date, monitor progress, and keep teams on track to reach training goals. You can request to join the beta program by emailing [trainingplans@cloudacademy.com|trainingplans@cloudacademy.com].
 
 
 [comment]: # (The changes for v6.2)
