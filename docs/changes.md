@@ -16,16 +16,19 @@ Our video course user interface got a face lift. There are also several improvem
 - More granular sync of progress across devices; the user’s position is stored at more frequent intervals so users can continue more easily from another device
 - Video preferences can now be saved (subtitles, speed)
 - Users can now give feedback to Cloud Academy at the lecture level and report any problems with a specific video
+
 ![course](https://raw.githubusercontent.com/cloudacademy/changelog/master/docs/images/2018-02-19-coursesUI.png "Courses")
 
 **New Navigation Sidebar Within Learning Path**
 
 We added an expandable navigation bar to all pages within a Learning Path. From within any Course, Hands-on Lab, or Quiz in a Learning Path, users can click the purple ribbon on the left side of the screen and easily navigate without leaving the screen they’re on.
+
 ![navbar](https://raw.githubusercontent.com/cloudacademy/changelog/master/docs/images/2018-02-19-learning-path-sidebar.png "Navigation Bar")
 
 **Simplified Action Menu on Management Dashboard**
 
 We replaced the small, difficult to click Action buttons on the Management Dashboard with a larger, more easily clickable menu dropdown for Actions.
+
 ![mgmtdashboard](https://raw.githubusercontent.com/cloudacademy/changelog/master/docs/images/2018-02-19-managementdashboard.png "Management Dashboard")
 
 
