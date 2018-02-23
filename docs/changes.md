@@ -2,29 +2,31 @@
 ## Notable & Upcoming
 
 - The Learning Path Editor in Content Engine is receiving an updated UI, making it easier to integrate your custom training materials as quiz and exam content.
-- Training Plan beta continues to expand. Training Plans enable you to assign multiple Learning Paths to specific teams with a Training Plan cycle due date, monitor progress, and keep teams on track to reach training goals. You can request to join the beta program by emailing [trainingplans@cloudacademy.com|trainingplans@cloudacademy.com].
+- Training Plan beta continues to expand. Training Plans enable you to assign multiple Learning Paths to specific teams with a Training Plan cycle due date, monitor progress, and keep teams on track to reach training goals. You can request to join the beta program by emailing trainingplans@cloudacademy.com.
 
 
 [comment]: # (The changes for v6.2)
-## v6.2 Feb 19, 2018
+## Release Notes: v6.2 (Feb 19, 2018)
 
-**Main New Feature:**
+**New Features:**
 
-**Management Dashboard improvements**
+**Improved Courses User Interface**
 
-- Management Dashboard: grouped the member action buttons together under a single drop-down menu
-- Removed the Company logo from the sidebar menu.
-Here the link to the improvements documentation
+Our video course user interface got a face lift. There are also several improvements under the hood:
+- More granular sync of progress across devices; the user’s position is stored at more frequent intervals so users can continue more easily from another device
+- Video preferences can now be saved (subtitles, speed)
+- Users can now give feedback to Cloud Academy at the lecture level and report any problems with a specific video
 
 
-**Bug-fix:**
+
+**Bug-Fixes:**
 
 - Learning products ...
 - Content Engine ...
 - Other technical fixes ...
 
 
-**Technical & Architectural improvements:**
+**Technical & Architectural Improvements:**
 
 - Learning products ...
 - Content Engine ...
