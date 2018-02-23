@@ -1,5 +1,5 @@
 [comment]: # (Changes that are planned)
-## Upcoming changes - test
+## Upcoming changes - testing
 
 - **Big change**: Something here
 - Another thing [Dashboard](https://cloudacademy.com/dashboard)
