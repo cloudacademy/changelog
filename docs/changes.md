@@ -1,4 +1,4 @@
-## Release Notes: v7.2 (Mar 16th, 2018)
+## Release Notes: v7.2 (Mar 16, 2018)
 
 ### New Features:
 - Retake quizzes and exams in a Learning Path: we have reintroduced the button to retake quizzes and exams within Learning       Paths.
@@ -19,7 +19,7 @@
 
 
 [comment]: # (Changes that are planned)
-## Notable & Upcoming
+## Notable & Upcoming (Feb 19, 2018)
 
 - The Learning Path Editor in Content Engine is receiving an updated UI, making it easier to integrate your custom training materials as quiz and exam content.
 - Training Plan beta continues to expand. Training Plans enable you to assign multiple Learning Paths to specific teams with a Training Plan cycle due date, monitor progress, and keep teams on track to reach training goals. You can request to join the beta program by emailing trainingplans@cloudacademy.com.
