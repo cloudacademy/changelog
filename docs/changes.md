@@ -1,3 +1,23 @@
+## Release Notes: v7.2 (Mar 16th, 2018)
+
+### New Features:
+- Retake quizzes and exams in a Learning Path: we have reintroduced the button to retake quizzes and exams within Learning       Paths.
+
+- Change due date on Training Plan Cycles: it is possible for Team Managers to change the due date of a Training Plan Cycle     through the UI of the Training Plan Cycle's   detail page.
+  
+- Aggregate Training Plan Cycle Progress for Managers / Admins: Training Plan managers previously received as many emails as     the number of Training Plans they'd manage. Now multiple Training Plan emails are collapsed into a single one, with at-a-     glance information about the different Training Plans managed.
+
+- Not adding team managers by default to Training Plans: Altering a Team's structure (adding or removing Team Managers from a   Team) now results in the expected behaviors of Training Plan not being assigned to the newly added Team Manager, so the       Training Plan correctly stays assigned to the previously Team Manager.
+
+### Bug Fixes:
+
+- Missing BE forms error management
+- Learning Path description missing in Content Engine User interface.
+- Check validation fields improvement on Content Engine forms
+- Fix Discard Changes behaviour for LabSteps.
+
+
+
 [comment]: # (Changes that are planned)
 ## Notable & Upcoming
 
