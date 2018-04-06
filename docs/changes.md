@@ -1,3 +1,19 @@
+## Release Notes: v7.5 (Apr 6, 2018)
+
+### New Features:
+
+- Courses UI improvements: We improved the UI of the lecture player and the UX of the lectures navigation.
+
+- New Partners page: We released the new page Partners, visible at this link https://cloudacademy.com/partners/
+
+- Enterprice Reports are downloadable from the platform rather than emailed.
+
+### Bug Fixes:
+
+- Learning Path versioning.
+
+
+
 ## Release Notes: v7.2 (Mar 16, 2018)
 
 ### New Features:
