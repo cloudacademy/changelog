@@ -2,15 +2,17 @@
 
 ### New Features:
 
-- Courses UI improvements: We improved the UI of the lecture player and the UX of the lectures navigation.
+- Improvements to the courses UI: we tweaked, iterated, and obsessed over the user interface of the video player and the user experience navigating video lectures.
 
-- New Partners page: We released the new page Partners, visible at this link https://cloudacademy.com/partners/
+- New page for our partner program: we released a section on the website for current and prospective partners, which you can learn more about at https://cloudacademy.com/partners/
 
-- Enterprice Reports are downloadable from the platform rather than emailed.
+- Enterprise Reports: These are now downloadable directly from the Cloud Academy platform. Previously, we emailed you when they were ready (and we agree, that was annoying).
+
+- We pressed on with finishing touches to features we're about to launch which are, well, really quite momentous. Stay tuned because April is going to be good...
 
 ### Bug Fixes:
 
-- Learning Path versioning.
+- Versioning now works much better when Cloud Academy makes changes to Learning Paths.
 
 
 
