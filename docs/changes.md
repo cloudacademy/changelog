@@ -6,7 +6,7 @@
 
 - New page for our partner program: we released a section on the website for current and prospective partners, which you can learn more about at https://cloudacademy.com/partners/
 
-- Enterprise Reports: These are now downloadable directly from the Cloud Academy platform. Previously, we emailed you when they were ready (and we agree, that was annoying).
+- Enterprise Reports: these are now downloadable directly from the Cloud Academy platform. Previously, we emailed you when they were ready (and we agree, that was annoying).
 
 - We pressed on with finishing touches to features we're about to launch which are, well, really quite momentous. Stay tuned because April is going to be good...
 
