@@ -1,3 +1,18 @@
+## Release Notes: v7.7 (Apr 26, 2018)
+
+### New Features:
+
+- Analytics received a fresh coat of paint. Under the hood, sessions and time spent are more accurate and reporting is more granular. To see Analytics in your Enterprise account, visit https://cloudacademy.com/organizations/insights/?product=overall.
+
+- Enterprise Reports can now be downloaded in CSV and XLS formats. The same improvements under the hood benefit the reports you download from Cloud Academy. To see Reports in your Enterprise account, visit https://cloudacademy.com/organizations/insight-reports/.
+
+
+## Release Notes: v7.6 (Apr 10, 2018)
+
+### New Features:
+
+- We're pleased to announce that Training Plans are now generally available to customers on our Enterprise plan. To learn more, visit cloudacademy.com/product/training-plans
+
 ## Release Notes: v7.5 (Apr 6, 2018)
 
 ### New Features:
