@@ -1,3 +1,10 @@
+## Notable and Upcoming
+
+- Your Leaderboard is moving. Starting soon, you can find the leaderboard for your teams and users on the Analytics page. 
+
+- "Cloud Rank" and "Cloud Karma" metrics will soon be deprecated since more actionable metrics have been added on your Analytics page.
+
+
 ## Release Notes: v7.7 (Apr 26, 2018)
 
 ### New Features:
