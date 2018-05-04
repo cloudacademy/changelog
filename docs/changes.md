@@ -5,13 +5,25 @@
 - "Cloud Rank" and "Cloud Karma" metrics will soon be deprecated since more actionable metrics have been added on your Analytics page.
 
 
-## Release Notes: v7.7 (Apr 26, 2018)
+## Release Notes: v7.7 (May 4, 2018)
 
 ### New Features:
 
 - Analytics received a fresh coat of paint. Under the hood, sessions and time spent are more accurate and reporting is more granular. To see Analytics in your Enterprise account, visit https://cloudacademy.com/organizations/insights/?product=overall.
 
 - Enterprise Reports can now be downloaded in CSV and XLS formats. The same improvements under the hood benefit the reports you download from Cloud Academy. To see Reports in your Enterprise account, visit https://cloudacademy.com/organizations/insight-reports/.
+
+- Training plans received several enhancements:
+    -  Progress emails are only sent to assignees
+    - Users on the Training Plan dashboard are now clearly marked by role
+
+- Answering questions on Quizzes and Exams has improved. In both study mode and test mode, the next action is automatically loaded after a 3 seconds.
+
+### Bug Fixes:
+
+- Questions filtering widget.
+- Various minor bugs fixes behind the scenes.
+
 
 
 ## Release Notes: v7.6 (Apr 10, 2018)
