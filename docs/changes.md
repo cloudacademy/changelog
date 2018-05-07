@@ -17,7 +17,7 @@
     -  Progress emails are only sent to assignees
     - Users on the Training Plan dashboard are now clearly marked by role
 
-- Answering questions on Quizzes and Exams has improved. In both study mode and test mode, the next action is automatically loaded after a 3 seconds.
+- Answering questions on Quizzes and Exams has improved. In both study mode and test mode, the next action is automatically loaded after three (3) seconds.
 
 ### Bug Fixes:
 
