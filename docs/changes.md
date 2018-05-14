@@ -4,6 +4,8 @@
 
 - "Cloud Rank" and "Cloud Karma" metrics will soon be deprecated since more actionable metrics have been added on your Analytics page.
 
+- As part of GDPR compliance, your profile data are now downloadable from your profile settings.
+
 
 ## Release Notes: v7.7 (May 4, 2018)
 
