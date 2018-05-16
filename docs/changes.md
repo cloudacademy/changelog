@@ -11,9 +11,9 @@
 ### New Features:
 
 - Training Plans improvements:
-    1. In the modal to assign a Training Plan to a user, the Assign button is disabled if the user already has a Training          Plan assigned, and in this case the modal shows the title of such Training Plan
-    2. The system no longer allows to assign a Training Plan to a user that already has a Training Plan assigned; in this          case, the user will be added to the "Not Assigned" list, instead.
-    3. In the Training Plan cycle creation page, disable Teams that already have a Training Plan Assignment assigned
+    1. In the modal to assign a Training Plan to a user, the Assign button is disabled if the user already has a Training          Plan assigned, and in this case the modal shows the title of such Training Plan.
+    2. The system no longer allows assigning a Training Plan to a user that already has a Training Plan assigned; in this          case, the user will instead be added to the "Not Assigned" list.
+    3. In the Training Plan cycle creation page, disable Teams that already have a Training Plan Assignment assigned.
 
 A brief overview of the release notes
 
