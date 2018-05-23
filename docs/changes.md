@@ -1,7 +1,7 @@
-## Notable and Upcoming
-
 ## SCHEDULED MAINTAINANCE: Monday, May 28th, 2018 1:00-2:00 pm GMT Cloud Academy website will be unavailable for maintenance.
 Please note: the blog won't be affected by this maintenance.
+
+## Notable and Upcoming
 
 - Your Leaderboard is moving. Starting soon, you can find the leaderboard for your teams and users on the Analytics page. 
 
