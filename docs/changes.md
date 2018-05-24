@@ -1,5 +1,5 @@
-## SCHEDULED MAINTAINANCE: Monday, May 28th, 2018 1:00-2:00 pm GMT Cloud Academy website will be unavailable for maintenance.
-Please note: the blog won't be affected by this operation.
+## SCHEDULED MAINTAINANCE: Monday, May 28, 2018 1:00-2:00 pm GMT Cloud Academy website will be unavailable for maintenance.
+Please note: The blog won't be affected by this operation.
 
 ## Notable and Upcoming
 
@@ -7,7 +7,7 @@ Please note: the blog won't be affected by this operation.
 
 - "Cloud Rank" and "Cloud Karma" metrics will soon be deprecated since more actionable metrics have been added on your Analytics page.
 
-- As part of GDPR compliance, your profile data are now downloadable from your profile settings.
+- As part of GDPR compliance, your profile data is now downloadable from your profile settings.
 
 ## Release Notes v7.8 (May 16, 2018)
 
