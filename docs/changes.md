@@ -5,26 +5,26 @@ Please note: The blog won't be affected by this operation.
 
 - Your Leaderboard is moving. Starting soon, you can find the leaderboard for your teams and users on the Analytics page. 
 
-- "Cloud Rank" and "Cloud Karma" metrics will soon be deprecated since more actionable metrics have been added on your Analytics page.
+- "CloudRank" and "CloudKarma" metrics will soon be deprecated since more actionable metrics have been added on your Analytics page.
 
 - As part of GDPR compliance, your profile data is now downloadable from your profile settings.
 
 ## Release Notes v7.9 (May 23, 2018)
 
 ### New Features:
-- Release of the Skills Profiles:
-    We have released the Skills Profiles product, It allows companies and end-users to track their skills progress inside     Cloud Academy. Find out more here: https://support.cloudacademy.com/hc/en-us/sections/360000138363-Skill-Profiles
+- Release of the Skill Profiles:
+    We have released the Skill Profiles product. It allows companies and end-users to track their skills progress inside     Cloud Academy. Find out more here: https://support.cloudacademy.com/hc/en-us/sections/360000138363-Skill-Profiles
 
 - Training Plans improvements:
-    1. When assigning Training Plan to a single user, disable the Assign button if he's already active on another Training          Plan.
-    2. During the Training Plan assignment, disable Teams that already have a Training Plan assigned
-    3. When selecting a Team during the Training Plan assignment, It shows users that already have an active Training Plan.        For these users the Training Plan being created will not be assigned.
+    1. When assigning a Training Plan to a single user, the Assign button is disabled if the user is already active on another Training          Plan.
+    2. During the Training Plan assignment, Teams are disabled that already have a Training Plan assigned
+    3. When selecting a Team during the Training Plan assignment, users that already have an active Training Plan will be displayed.        For these users, the Training Plan being created will not be assigned.
     
 - We have removed the Resources dropdown section from the navigation menu:
     1. Moved the Explanations Bookmarks link in the User Account dropdown menu
     2. Removed the links to Ebooks, Whitepapers, and Webinars (which remain accessible from the footer menu)
 
-- Cloud Karma and Cloud Rank removed: We removed Cloud Karma and Cloud Rank functionalities as they were replaced by new       Skills Profiles.
+- CloudKarma and CloudRank removed: We removed CloudKarma and CloudRank functionalities as they were replaced by new       Skill Profiles.
 
 - Removed Referral option for individual users
 
