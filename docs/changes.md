@@ -9,6 +9,29 @@ Please note: The blog won't be affected by this operation.
 
 - As part of GDPR compliance, your profile data is now downloadable from your profile settings.
 
+## Release Notes v7.9 (May 23, 2018)
+
+### New Features:
+- Release of the Skills Profiles:
+    We have released the Skills Profiles product, It allows companies and end-users to track their skills progress inside     Cloud Academy. Find out more here: https://support.cloudacademy.com/hc/en-us/sections/360000138363-Skill-Profiles
+
+- Training Plans improvements:
+    1. When assigning Training Plan to a single user, disable the Assign button if he's already active on another Training          Plan.
+    2. During the Training Plan assignment, disable Teams that already have a Training Plan assigned
+    3. When selecting a Team during the Training Plan assignment, It shows users that already have an active Training Plan.        For these users the Training Plan being created will not be assigned.
+    
+- We have removed the Resources dropdown section from the navigation menu:
+    1. Moved the Explanations Bookmarks link in the User Account dropdown menu
+    2. Removed the links to Ebooks, Whitepapers, and Webinars (which remain accessible from the footer menu)
+
+- Cloud Karma and Cloud Rank removed: We removed Cloud Karma and Cloud Rank functionalities as they were replaced by new       Skills Profiles.
+
+- Removed Referral option for individual users
+
+### Bug Fixes:
+- Restart a video dedicated button overlay remains visible.
+
+
 ## Release Notes v7.8 (May 16, 2018)
 
 ### New Features:
@@ -18,7 +41,6 @@ Please note: The blog won't be affected by this operation.
     2. The system no longer allows assigning a Training Plan to a user that already has a Training Plan assigned; in this          case, the user will instead be added to the "Not Assigned" list.
     3. In the Training Plan cycle creation page, disable Teams that already have a Training Plan Assignment assigned.
 
-A brief overview of the release notes
 
 ### Bug Fixes:
 - Content Roadmap published date.
