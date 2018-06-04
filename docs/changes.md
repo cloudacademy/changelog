@@ -10,14 +10,14 @@
 
 -   Button to reset the user's Study Plan profiling:
     On Account Settings page, we added a button (labeled "Update your study plan profile") that resets previous answers         for the Akinator and prompts you to a new Akinator session.
--   On Analytics page, improve the users/teams filtering:
-    On Analytics page, you can directly filter by users or team simply clicking on the user/team name on the Leaderboard
+-   On Analytics page, improved the users/teams filtering:
+    On Analytics page, you can directly filter by users or team simply by clicking on the user/team name on the Leaderboard
 
 -   Training Plan Improvements:
     1. A congratulations email is sent to individual and manager when a user has completed a Training Plan
-    2. It is possible to remove a single user from the Training Plan via the “Remove assignment” button on Assignee list
+    2. It is possible to remove a single user from the Training Plan via the "Remove assignment" button on Assignee list
 
--   Update the individual plan label from "Professional" to "Personal".
+-   Updated the individual plan label from "Professional" to "Personal".
 
 ## Release Notes v7.9 (May 23, 2018)
 
