@@ -10,12 +10,12 @@
 
 - Training Plan Improvements:
     1. Training Plans feature is automatically enabled for newly created Companies
-    2. Remove user from any Training Plan Assignments when removed from a Company
+    2. Remove users from any Training Plan Assignments when removed from a Company
     3. Automatically assign a Training Plan to a user that just accepted an invite and is part of a team
 
 - New label for individual subscription plan from "Professional" to "Personal".
 
-- Analytics page, enable the Leaderboard sorting by columns
+- Analytics page: Enable the Leaderboard sorting by columns
 
 - UI/UX minor improvements on Skill Assessment page
 
