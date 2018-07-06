@@ -6,6 +6,22 @@
 
 - As part of GDPR compliance, your profile data is now downloadable from your profile settings.
 
+
+a new release of our platform has been deployed online.
+
+
+## Release Notes v7.14 (Jul 6th, 2018)
+
+- Quizzes and Exams improvements:
+1. The timer on Exam sessions has been made more reliable in order to resolve issues with desync/submit during long exam sessions.
+2. The Next button on Quizzes and Exams now is only enabled when the user's response has been validated server side, avoiding multiple clicks and UX problems
+
+- UI: 
+
+1. Content that has been recently changed/updated will now display an "UPDATED" label.
+
+2. Content that has received a major version update recently will now display an "UPDATED" label on its card.
+
 ## Release Notes v7.11 (Jun 11th, 2018)
 
 - Training Plan Improvements:
