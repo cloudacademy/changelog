@@ -14,7 +14,7 @@ a new release of our platform has been deployed online.
 
 - Quizzes and Exams improvements:
 1. The timer on Exam sessions has been made more reliable in order to resolve issues with desync/submit during long exam sessions.
-2. The Next button on Quizzes and Exams now is only enabled when the user's response has been validated server side, avoiding multiple clicks and UX problems
+2. The Next button on Quizzes and Exams is now only enabled when the user's response has been validated on the server side, avoiding multiple clicks and UX problems.
 
 - UI: 
 
