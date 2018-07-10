@@ -6,9 +6,13 @@
 
 - As part of GDPR compliance, your profile data is now downloadable from your profile settings.
 
+## Release Notes v7.15 (Jul 10th, 2018)
 
-a new release of our platform has been deployed online.
+- Training Plan improvements:
+1. We enabled the feature to mark Training Plan as completed.
+2. Sort by column on the Management dashboard.
 
+- Enterprise Labs are accessible to all subscribers.
 
 ## Release Notes v7.14 (Jul 6th, 2018)
 
