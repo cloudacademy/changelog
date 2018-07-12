@@ -6,6 +6,9 @@
 
 - As part of GDPR compliance, your profile data is now downloadable from your profile settings.
 
+- Learning Paths and Hands-On Labs user interface new look.
+
+
 ## Release Notes v7.15 (Jul 10th, 2018)
 
 - Training Plan improvements:
