@@ -8,6 +8,17 @@
 
 - Learning Paths and Hands-On Labs user interface new look.
 
+## Release Notes v7.16 (Jul 16th, 2018) 
+
+- Learning Paths and Labs new look and feel:
+We released a complete User Interface overhaul of our Learning Paths and Labs products, aimed at improving the overall end-user experience on Cloud Academy. On Learning Paths.
+
+- Enterprise Self-serve plan:
+Companies requesting from 2 to 10 licenses are now able to directly purchase and activate an Enterprise plan from the Pricing page. If a Company needs to register more than 10 members, a Contact us form will be displayed to get in touch with our sales team.
+
+- Training Plan improvements:
+1. Send email notifications after a Training plan completion
+2. Overall performance improvements during quiz/exam sessions
 
 ## Release Notes v7.15 (Jul 10th, 2018)
 
